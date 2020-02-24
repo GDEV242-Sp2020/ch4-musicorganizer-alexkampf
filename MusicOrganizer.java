@@ -7,6 +7,7 @@ import java.util.Random;
  * 
  * @author David J. Barnes and Michael Kölling
  * @version 2016.02.29
+ * Modified to include randomTrack and shufflePlay by Alex Kampf
  */
 public class MusicOrganizer
 {
